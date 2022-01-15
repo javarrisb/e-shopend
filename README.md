@@ -10,9 +10,11 @@
 
 # Usage
 - In order to use this application, run 'npm run seed' to seed the models and 'npm start' to start the application
+-  You can also watch the walkthrough of this application at: https://youtu.be/omLy4AmOMu8
 
 
 # Screenshot of application
+![sssss](https://user-images.githubusercontent.com/89273544/149629355-fd32ca28-73a7-4905-b3cf-874a9056b8e0.png)
 
 
 # Contributions
